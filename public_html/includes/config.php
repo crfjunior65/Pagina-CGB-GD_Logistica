@@ -13,6 +13,7 @@ define('SITE_DESCRICAO', 'Soluções em transporte e logística para Cuiabá e r
 try {
     $pdo = new PDO("mysql:host=".DB_HOST.";dbname=".DB_NAME, DB_USER, DB_PASS);
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    // echo "Conectado com Sucesso com PDO" . $e->getMessage();
 } catch(PDOException $e) {
     die("ERRO: Não foi possível conectar. " . $e->getMessage());
 }

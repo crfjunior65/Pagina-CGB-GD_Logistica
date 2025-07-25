@@ -15,7 +15,7 @@
     <header class="header">
         <div class="container">
             <a href="/" class="logo">
-                <img src="/assets/images/logo.png" alt="GD Logística">
+                <img src="/images/logo.png" alt="GD Logística">
             </a>
             
             <nav class="nav">
