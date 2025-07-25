@@ -1,0 +1,69 @@
+2025/07/24 18:44:27 [error] 31123#31123: *353 directory index of "/var/www/cgb.gdlogistica.com/public_html/" is forbidden, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", host: "cgb.gdlogistica.com"
+2025/07/24 18:44:55 [error] 31124#31124: *354 directory index of "/var/www/cgb.gdlogistica.com/public_html/" is forbidden, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", host: "cgb.gdlogistica.com"
+2025/07/24 18:44:58 [error] 31124#31124: *354 directory index of "/var/www/cgb.gdlogistica.com/public_html/" is forbidden, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", host: "cgb.gdlogistica.com"
+2025/07/24 18:45:18 [error] 31124#31124: *354 directory index of "/var/www/cgb.gdlogistica.com/public_html/" is forbidden, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", host: "cgb.gdlogistica.com"
+2025/07/24 18:46:55 [error] 31125#31125: *355 directory index of "/var/www/cgb.gdlogistica.com/public_html/" is forbidden, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", host: "cgb.gdlogistica.com"
+2025/07/24 18:46:56 [error] 31125#31125: *355 directory index of "/var/www/cgb.gdlogistica.com/public_html/" is forbidden, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", host: "cgb.gdlogistica.com"
+2025/07/24 18:55:35 [error] 31260#31260: *1 directory index of "/var/www/cgb.gdlogistica.com/public_html/" is forbidden, client: 200.252.61.236, server: cgb.gdlogistica.com, request: "HEAD / HTTP/2.0", host: "cgb.gdlogistica.com"
+2025/07/24 19:06:29 [error] 31265#31265: *6 directory index of "/var/www/cgb.gdlogistica.com/public_html/" is forbidden, client: 176.123.4.217, server: cgb.gdlogistica.com, request: "GET / HTTP/1.1", host: "cgb.gdlogistica.com"
+2025/07/24 19:43:43 [error] 31274#31274: *43 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 19:43:45 [error] 31274#31274: *43 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 19:43:46 [error] 31274#31274: *43 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 19:43:47 [error] 31274#31274: *43 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 19:51:12 [error] 31275#31275: *51 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 31.97.153.61, server: cgb.gdlogistica.com, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 20:36:42 [error] 31260#31260: *71 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 52.34.228.235, server: cgb.gdlogistica.com, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:03:48 [error] 31260#31260: *80 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 133.242.174.119, server: cgb.gdlogistica.com, request: "GET /robots.txt HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:22:01 [error] 31260#31260: *85 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 3.145.92.117, server: cgb.gdlogistica.com, request: "GET /.git/config HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:26:07 [error] 31260#31260: *89 access forbidden by rule, client: 77.90.153.170, server: cgb.gdlogistica.com, request: "GET /.env HTTP/1.1", host: "cgb.gdlogistica.com"
+2025/07/24 21:32:25 [error] 31260#31260: *93 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:32:27 [error] 31260#31260: *93 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:32:36 [error] 31260#31260: *93 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:32:37 [error] 31260#31260: *93 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:32:38 [error] 31260#31260: *93 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:32:39 [error] 31260#31260: *93 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:32:50 [error] 31260#31260: *102 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 172.234.217.129, server: cgb.gdlogistica.com, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "200.252.61.236"

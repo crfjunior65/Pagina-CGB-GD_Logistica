@@ -1,0 +1,101 @@
+2025/07/24 21:45:41 [error] 33713#33713: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:45:42 [error] 33713#33713: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:45:43 [error] 33713#33713: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:45:43 [error] 33713#33713: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:45:44 [error] 33713#33713: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:45:44 [error] 33713#33713: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:45:44 [error] 33713#33713: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:45:45 [error] 33713#33713: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:45:45 [error] 33713#33713: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:45:46 [error] 33713#33713: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:45:46 [error] 33713#33713: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:45:46 [error] 33713#33713: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:45:47 [error] 33713#33713: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:45:47 [error] 33713#33713: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:45:47 [error] 33713#33713: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:45:48 [error] 33713#33713: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:45:48 [error] 33713#33713: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 191.35.186.84, server: cgb.gdlogistica.com, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:46:20 [error] 33718#33718: *20 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 135.237.126.225, server: cgb.gdlogistica.com, request: "GET /autodiscover/autodiscover.json?@zdi/Powershell HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "200.252.61.236"
+2025/07/24 21:53:30 [error] 33798#33798: *2 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 200.252.61.236, server: cgb.gdlogistica.com, request: "HEAD / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:55:23 [crit] 33810#33810: *13 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 212.102.40.218, server: 0.0.0.0:443
+2025/07/24 21:55:56 [error] 33808#33808: *14 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 200.252.61.236, server: cgb.gdlogistica.com, request: "HEAD / HTTP/2.0", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "cgb.gdlogistica.com"
+2025/07/24 21:57:52 [error] 33811#33811: *16 FastCGI sent in stderr: "PHP message: PHP Warning:  require(includes/config.php): Failed to open stream: No such file or directory in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2; PHP message: PHP Fatal error:  Uncaught Error: Failed opening required 'includes/config.php' (include_path='.:/usr/share/php') in /var/www/cgb.gdlogistica.com/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/cgb.gdlogistica.com/public_html/index.php on line 2" while reading response header from upstream, client: 149.50.96.5, server: cgb.gdlogistica.com, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php8.2-fpm.sock:", host: "200.252.61.236:443"
+2025/07/24 22:19:05 [crit] 34043#34043: *23 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 212.102.40.218, server: 0.0.0.0:443
+2025/07/25 00:37:31 [crit] 34033#34033: *119 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 87.236.176.59, server: 0.0.0.0:443
+2025/07/25 01:17:01 [crit] 34031#34031: *163 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 95.215.0.144, server: 0.0.0.0:443
+2025/07/25 01:52:04 [crit] 34034#34034: *185 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 95.215.0.144, server: 0.0.0.0:443
+2025/07/25 02:00:38 [error] 34034#34034: *194 access forbidden by rule, client: 47.119.112.62, server: cgb.gdlogistica.com, request: "GET /.env HTTP/1.1", host: "200.252.61.236"
+2025/07/25 02:53:20 [error] 34039#34039: *229 access forbidden by rule, client: 47.119.112.62, server: cgb.gdlogistica.com, request: "GET /.env HTTP/1.1", host: "200.252.61.236"
+2025/07/25 02:53:20 [error] 34038#34038: *228 access forbidden by rule, client: 47.119.112.62, server: cgb.gdlogistica.com, request: "GET /.env.backup HTTP/1.1", host: "200.252.61.236"
+2025/07/25 02:53:20 [error] 34035#34035: *224 access forbidden by rule, client: 47.119.112.62, server: cgb.gdlogistica.com, request: "GET /.env.local HTTP/1.1", host: "200.252.61.236"
+2025/07/25 02:53:20 [error] 34035#34035: *232 access forbidden by rule, client: 47.119.112.62, server: cgb.gdlogistica.com, request: "GET /.env.bak HTTP/1.1", host: "200.252.61.236"
+2025/07/25 02:53:20 [error] 34035#34035: *234 access forbidden by rule, client: 47.119.112.62, server: cgb.gdlogistica.com, request: "GET /.env.development HTTP/1.1", host: "200.252.61.236"
+2025/07/25 02:53:22 [error] 34035#34035: *233 access forbidden by rule, client: 47.119.112.62, server: cgb.gdlogistica.com, request: "GET /.env.production HTTP/1.1", host: "200.252.61.236"
+2025/07/25 04:13:27 [error] 34036#34036: *280 access forbidden by rule, client: 209.38.95.156, server: cgb.gdlogistica.com, request: "GET /.env HTTP/1.1", host: "200.252.61.236"
+2025/07/25 04:58:19 [crit] 34038#34038: *310 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 185.242.226.166, server: 0.0.0.0:443
+2025/07/25 05:46:44 [crit] 34039#34039: *342 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 167.71.214.87, server: 0.0.0.0:443
+2025/07/25 06:26:24 [crit] 34037#34037: *373 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 20.169.105.32, server: 0.0.0.0:443
+2025/07/25 07:05:58 [crit] 34041#34041: *451 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 64.62.197.216, server: 0.0.0.0:443
