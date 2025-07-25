@@ -2,7 +2,7 @@
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-require 'vendor/autoload.php'; // Se você usar o Composer para instalar o PHPMailer
+require __DIR__ . '/../../../vendor/autoload.php'; // Se você usar o Composer para instalar o PHPMailer
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // 1. Sanitização e Validação dos Dados
